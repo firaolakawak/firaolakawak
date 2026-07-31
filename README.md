@@ -32,9 +32,9 @@ alt="Typing introduction"
 
 👨‍💻 About Me
 
-  name: "Firaol Akawak",
-  role: "Full-Stack Application Developer",
-  location: "Abu Dhabi, United Arab Emirates 🇦🇪",
+Firaol Akawak,
+ Role: "Full-Stack Application Developer",
+ Location: "Abu Dhabi, United Arab Emirates 🇦🇪",
 
 
     "Full-Stack Web Applications",
@@ -44,8 +44,8 @@ alt="Typing introduction"
     "Data Analytics & Reporting",
     "AI-Assisted Solutions"
 
-  approach: "Turning business needs into reliable digital solutions",
-  openToWork: true
+  Approach: "Turning business needs into reliable digital solutions",
+  OpenToWork: true
 
 I build modern web applications and Progressive Web Apps that solve practicalbusiness problems. My experience covers frontend development, backendworkflows, REST API integrations, databases, IT service operations, reporting,infrastructure support, and AI-assisted solutions.
 
