@@ -1,27 +1,316 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Firaol Akawak
-======================================================================================================================================
+<!--
+  GitHub Profile README for Firaol Akawak
+  Repository: https://github.com/firaolakawak/firaolakawak
+-->
 
-Full Stack App Developer | Driving Business Efficiency Through Technology & Insight
------------------------------------------------------------------------------------
+<div align="center">
 
-Full-stack web and PWA development | IT service desk and support operations | Backend workflows and REST API integrations | Data analytics, BI and reporting | IT infrastructure, systems and network administration | AI-assisted solutions
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:06B6D4&height=220&section=header&text=Firaol%20Akawak&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Application%20Developer%20%7C%20PWA%20%7C%20IT%20Solutions&descAlignY=60&animation=fadeIn"
+alt="Firaol Akawak — Full-Stack Application Developer"
+/>
 
-* 🌍  I'm based in Abu Dhabi, United Arab Emirates
-* 🖥️  See my portfolio at [https://firaolakawak.shop/](http://https://firaolakawak.shop/)
-* ✉️  You can contact me at [fireksf@gmail.com](mailto:fireksf@gmail.com)
-* 🚀  I'm currently working on [https://habeshaconnects.com/](http://https://habeshaconnects.com/)
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Building+modern+full-stack+applications;React+%7C+TypeScript+%7C+Node.js+%7C+PWA;Turning+business+needs+into+digital+solutions;Based+in+Abu+Dhabi%2C+United+Arab+Emirates"
+alt="Typing introduction"
+/>
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" title="Firebase" width="36" height="36" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" alt="Heroku" title="Heroku" width="36" height="36" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" /></a><a href="https://resend.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/resend-colored-dark.svg" alt="Resend" title="Resend" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" title="After Effects" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://wix.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wix-colored.svg" alt="Wix" title="Wix" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" alt="Flutter" title="Flutter" width="36" height="36" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a>
+<br/><br/>
+
+<a href="https://firaolakawak.shop/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/firaol">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:fireksf@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+👨‍💻 About Me
+
+const firaol = {
+  name: "Firaol Akawak",
+  role: "Full-Stack Application Developer",
+  location: "Abu Dhabi, United Arab Emirates 🇦🇪",
+
+  focus: [
+    "Full-Stack Web Applications",
+    "Progressive Web Apps",
+    "Backend Workflows & REST APIs",
+    "IT Service Desk Solutions",
+    "Data Analytics & Reporting",
+    "AI-Assisted Solutions"
+  ],
+
+  approach: "Turning business needs into reliable digital solutions",
+  openToWork: true
+};
+
+I build modern web applications and Progressive Web Apps that solve practicalbusiness problems. My experience covers frontend development, backendworkflows, REST API integrations, databases, IT service operations, reporting,infrastructure support, and AI-assisted solutions.
+
+🌍 Based in Abu Dhabi, United Arab Emirates
+
+💼 Experienced with React, TypeScript, Node.js, REST APIs, and PWAs
+
+🏢 Developed a full-stack PWA for IT support services at Rejlers
+
+📊 Interested in business intelligence, reporting, and process improvement
+
+🖥️ Explore my work at firaolakawak.shop
+
+🚀 Currently working on Habesha Connects
+
+✉️ Reach me at fireksf@gmail.com
+
+🤝 Open to full-stack development opportunities and collaborations
+
+🛠️ Technical Skills
+
+Languages
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=js,ts,python,cs,cpp,php,dart,kotlin&theme=dark&perline=8"
+    alt="JavaScript, TypeScript, Python, C Sharp, C Plus Plus, PHP, Dart, and Kotlin"
+  />
 </p>
 
-### Socials
+Frontend & Mobile
 
-<p align="left"> <a href="https://www.github.com/firaolakawak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/firaol.akawak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.dev.to/firaolakawak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" title="DEV" /> </picture> </a> <a href="https://www.linkedin.com/in/firaol" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.youtube.com/@firaol" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://www.facebook.com/firaol.akawak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
-### Support Me
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite,bootstrap,flutter&theme=dark&perline=8"
+    alt="React, Next.js, HTML, CSS, Tailwind CSS, Vite, Bootstrap, and Flutter"
+  />
+</p>
 
-<ul style="list-style-type: none; margin: 0;">
+Backend & Databases
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/firaol"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,postgres,firebase,supabase&theme=dark&perline=8"
+    alt="Node.js, Express, Django, MongoDB, MySQL, PostgreSQL, Firebase, and Supabase"
+  />
+</p>
 
-</ul>
+Cloud, DevOps & Tools
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=git,github,docker,aws,azure,gcp,vercel,heroku&theme=dark&perline=8"
+    alt="Git, GitHub, Docker, AWS, Azure, Google Cloud, Vercel, and Heroku"
+  />
+</p>
+
+Design & Content
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr,wordpress&theme=dark&perline=6"
+    alt="Figma, Photoshop, Illustrator, After Effects, Premiere Pro, and WordPress"
+  />
+</p>
+
+🚀 What I Build
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Full-Stack Applications</h3>
+      <p>
+        Responsive and scalable applications built with React, TypeScript,
+        Node.js, REST APIs, and modern databases.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 Progressive Web Apps</h3>
+      <p>
+        Installable, mobile-first applications with offline capabilities,
+        responsive interfaces, and app-like user experiences.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔗 APIs & Automation</h3>
+      <p>
+        Backend workflows and secure integrations connecting applications,
+        databases, services, and external platforms.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛠️ IT & Business Solutions</h3>
+      <p>
+        Support platforms, reporting tools, and digital workflows that improve
+        visibility, service delivery, and operational efficiency.
+      </p>
+    </td>
+  </tr>
+</table>
+
+💼 Professional Highlight
+
+Full-Stack PWA for IT Support — Rejlers
+
+Developed a full-stack Progressive Web Application for IT support services
+
+Created responsive, mobile-first interfaces for support operations
+
+Designed backend workflows and integrated REST APIs
+
+Worked with database modeling and application data management
+
+Improved service-request reporting, tracking, and workflow visibility
+
+Delivered maintainable features designed for production use
+
+🌟 Featured Project
+
+<div align="center">
+
+Habesha Connects
+
+A digital platform connecting communities, businesses, and opportunities.
+
+<br/>
+
+<a href="https://habeshaconnects.com/">
+  <img src="https://img.shields.io/badge/Visit-Habesha%20Connects-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Habesha Connects"/>
+</a>
+<a href="https://github.com/firaolakawak?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub repositories"/>
+</a>
+
+</div>
+
+📊 GitHub Activity
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=firaolakawak&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=firaolakawak&show_icons=true&hide_border=true&theme=default&title_color=2563EB&icon_color=06B6D4"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=firaolakawak&show_icons=true&hide_border=true&theme=transparent"
+    alt="Firaol's GitHub statistics"
+  />
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=firaolakawak&layout=compact&hide_border=true&theme=github_dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=firaolakawak&layout=compact&hide_border=true&theme=default&title_color=2563EB"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=firaolakawak&layout=compact&hide_border=true&theme=transparent"
+    alt="Firaol's most-used public repository languages"
+  />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=firaolakawak&bg_color=0D1117&color=58A6FF&line=06B6D4&point=FFFFFF&area=true&hide_border=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=firaolakawak&bg_color=FFFFFF&color=2563EB&line=06B6D4&point=2563EB&area=true&hide_border=true"
+  />
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=firaolakawak&bg_color=transparent&color=2563EB&line=06B6D4&point=2563EB&area=true&hide_border=true"
+    alt="Firaol's GitHub contribution activity"
+  />
+</picture>
+
+</div>
+
+GitHub statistics are calculated from public repository activity and may notinclude contributions made in private repositories.
+
+🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://firaolakawak.shop/">
+  <img src="https://img.shields.io/badge/Portfolio-firaolakawak.shop-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/firaol">
+  <img src="https://img.shields.io/badge/LinkedIn-Firaol%20Akawak-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://www.x.com/firaol.akawak">
+  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="https://www.dev.to/firaolakawak">
+  <img src="https://img.shields.io/badge/DEV.to-Read%20My%20Posts-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV Community"/>
+</a>
+
+<br/>
+
+<a href="https://www.youtube.com/@firaol">
+  <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+</a>
+<a href="https://www.facebook.com/firaol.akawak">
+  <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="mailto:fireksf@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+☕ Support Me
+
+<div align="center">
+
+If you find my work helpful, you can support me here:
+
+<br/>
+
+<a href="https://www.buymeacoffee.com/firaol">
+  <img
+    src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+    width="180"
+    alt="Buy Me a Coffee"
+  />
+</a>
+
+</div>
+
+<div align="center">
+
+💡 “Turning ideas into reliable digital experiences.”
+
+<img
+src="https://komarev.com/ghpvc/?username=firaolakawak&label=Profile%20Views&color=2563EB&style=for-the-badge"
+alt="Profile views"
+/>
+
+<br/><br/>
+
+⭐ Thank you for visiting my profile!
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,45:2563EB,100:06B6D4&height=120&section=footer"
+alt="Footer decoration"
+/>
+
+</div>
