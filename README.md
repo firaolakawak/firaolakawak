@@ -37,12 +37,12 @@ Firaol Akawak,
  Location: "Abu Dhabi, United Arab Emirates 🇦🇪",
 
 
-    "Full-Stack Web Applications",
-    "Progressive Web Apps",
-    "Backend Workflows & REST APIs",
-    "IT Service Desk Solutions",
-    "Data Analytics & Reporting",
-    "AI-Assisted Solutions"
+    Full-Stack Web Applications",
+    Progressive Web Apps",
+    Backend Workflows & REST APIs",
+    IT Service Desk Solutions",
+    Data Analytics & Reporting",
+    AI-Assisted Solutions.
 
   Approach: "Turning business needs into reliable digital solutions",
   OpenToWork: true
